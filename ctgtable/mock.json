@@ -1,0 +1,1766 @@
+[
+  {
+    "FISCAL_YEAR_WEEK": 202308,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Accessories",
+    "MEASURE_NAME": "ST_RPTD_QTY",
+    "CW_CTG_PER_VAL": 2.4110910186859553
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202309,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Accessories",
+    "MEASURE_NAME": "ST_RPTD_QTY",
+    "CW_CTG_PER_VAL": 11.717709720372836
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202310,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Accessories",
+    "MEASURE_NAME": "ST_RPTD_QTY",
+    "CW_CTG_PER_VAL": -7.568555758683729
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202311,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Accessories",
+    "MEASURE_NAME": "ST_RPTD_QTY",
+    "CW_CTG_PER_VAL": -4.234297812279464
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202312,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Accessories",
+    "MEASURE_NAME": "ST_RPTD_QTY",
+    "CW_CTG_PER_VAL": -6.761565836298932
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202313,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Accessories",
+    "MEASURE_NAME": "ST_RPTD_QTY",
+    "CW_CTG_PER_VAL": -22.297955209347613
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202314,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Accessories",
+    "MEASURE_NAME": "ST_RPTD_QTY",
+    "CW_CTG_PER_VAL": -16.918518518518518
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202315,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Accessories",
+    "MEASURE_NAME": "ST_RPTD_QTY",
+    "CW_CTG_PER_VAL": -23.356704645048204
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202316,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Accessories",
+    "MEASURE_NAME": "ST_RPTD_QTY",
+    "CW_CTG_PER_VAL": ""
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202317,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Accessories",
+    "MEASURE_NAME": "ST_RPTD_QTY",
+    "CW_CTG_PER_VAL": ""
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202318,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Accessories",
+    "MEASURE_NAME": "ST_RPTD_QTY",
+    "CW_CTG_PER_VAL": -14.059900166389351
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202319,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Accessories",
+    "MEASURE_NAME": "ST_RPTD_QTY",
+    "CW_CTG_PER_VAL": 18.160651920838184
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202320,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Accessories",
+    "MEASURE_NAME": "ST_RPTD_QTY",
+    "CW_CTG_PER_VAL": -6.042496679946879
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202321,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Accessories",
+    "MEASURE_NAME": "ST_RPTD_QTY",
+    "CW_CTG_PER_VAL": -6.202804746494067
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202308,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Home",
+    "MEASURE_NAME": "ST_RPTD_QTY",
+    "CW_CTG_PER_VAL": -4.792043399638336
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202309,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Home",
+    "MEASURE_NAME": "ST_RPTD_QTY",
+    "CW_CTG_PER_VAL": ""
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202310,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Home",
+    "MEASURE_NAME": "ST_RPTD_QTY",
+    "CW_CTG_PER_VAL": -6.1060329067641685
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202311,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Home",
+    "MEASURE_NAME": "ST_RPTD_QTY",
+    "CW_CTG_PER_VAL": ""
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202312,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Home",
+    "MEASURE_NAME": "ST_RPTD_QTY",
+    "CW_CTG_PER_VAL": -9.659379766141331
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202313,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Home",
+    "MEASURE_NAME": "ST_RPTD_QTY",
+    "CW_CTG_PER_VAL": ""
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202314,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Home",
+    "MEASURE_NAME": "ST_RPTD_QTY",
+    "CW_CTG_PER_VAL": ""
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202315,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Home",
+    "MEASURE_NAME": "ST_RPTD_QTY",
+    "CW_CTG_PER_VAL": ""
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202316,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Home",
+    "MEASURE_NAME": "ST_RPTD_QTY",
+    "CW_CTG_PER_VAL": ""
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202317,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Home",
+    "MEASURE_NAME": "ST_RPTD_QTY",
+    "CW_CTG_PER_VAL": ""
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202318,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Home",
+    "MEASURE_NAME": "ST_RPTD_QTY",
+    "CW_CTG_PER_VAL": 5.574043261231282
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202319,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Home",
+    "MEASURE_NAME": "ST_RPTD_QTY",
+    "CW_CTG_PER_VAL": -1.979045401629802
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202320,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Home",
+    "MEASURE_NAME": "ST_RPTD_QTY",
+    "CW_CTG_PER_VAL": -4.581673306772909
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202321,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Home",
+    "MEASURE_NAME": "ST_RPTD_QTY",
+    "CW_CTG_PER_VAL": -3.3980582524271843
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202308,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "iPad",
+    "MEASURE_NAME": "ST_RPTD_QTY",
+    "CW_CTG_PER_VAL": -5.063291139240507
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202309,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "iPad",
+    "MEASURE_NAME": "ST_RPTD_QTY",
+    "CW_CTG_PER_VAL": -14.647137150466046
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202310,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "iPad",
+    "MEASURE_NAME": "ST_RPTD_QTY",
+    "CW_CTG_PER_VAL": -25.630712979890312
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202311,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "iPad",
+    "MEASURE_NAME": "ST_RPTD_QTY",
+    "CW_CTG_PER_VAL": -4.516584333098095
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202312,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "iPad",
+    "MEASURE_NAME": "ST_RPTD_QTY",
+    "CW_CTG_PER_VAL": -10.777834265378749
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202313,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "iPad",
+    "MEASURE_NAME": "ST_RPTD_QTY",
+    "CW_CTG_PER_VAL": -7.205452775073028
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202314,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "iPad",
+    "MEASURE_NAME": "ST_RPTD_QTY",
+    "CW_CTG_PER_VAL": -7.377777777777778
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202315,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "iPad",
+    "MEASURE_NAME": "ST_RPTD_QTY",
+    "CW_CTG_PER_VAL": -0.43821209465381245
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202316,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "iPad",
+    "MEASURE_NAME": "ST_RPTD_QTY",
+    "CW_CTG_PER_VAL": 3.125
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202317,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "iPad",
+    "MEASURE_NAME": "ST_RPTD_QTY",
+    "CW_CTG_PER_VAL": -13.726993865030675
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202318,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "iPad",
+    "MEASURE_NAME": "ST_RPTD_QTY",
+    "CW_CTG_PER_VAL": 8.985024958402661
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202319,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "iPad",
+    "MEASURE_NAME": "ST_RPTD_QTY",
+    "CW_CTG_PER_VAL": -15.192083818393481
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202320,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "iPad",
+    "MEASURE_NAME": "ST_RPTD_QTY",
+    "CW_CTG_PER_VAL": -11.288180610889775
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202321,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "iPad",
+    "MEASURE_NAME": "ST_RPTD_QTY",
+    "CW_CTG_PER_VAL": -12.783171521035598
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202308,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "iPhone",
+    "MEASURE_NAME": "ST_RPTD_QTY",
+    "CW_CTG_PER_VAL": -25.49728752260398
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202309,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "iPhone",
+    "MEASURE_NAME": "ST_RPTD_QTY",
+    "CW_CTG_PER_VAL": -24.9445184198846
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202310,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "iPhone",
+    "MEASURE_NAME": "ST_RPTD_QTY",
+    "CW_CTG_PER_VAL": -14.149908592321754
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202311,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "iPhone",
+    "MEASURE_NAME": "ST_RPTD_QTY",
+    "CW_CTG_PER_VAL": 4.65772759350741
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202312,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "iPhone",
+    "MEASURE_NAME": "ST_RPTD_QTY",
+    "CW_CTG_PER_VAL": 10.726995424504322
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202313,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "iPhone",
+    "MEASURE_NAME": "ST_RPTD_QTY",
+    "CW_CTG_PER_VAL": -13.664394677052904
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202314,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "iPhone",
+    "MEASURE_NAME": "ST_RPTD_QTY",
+    "CW_CTG_PER_VAL": -23.14074074074074
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202315,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "iPhone",
+    "MEASURE_NAME": "ST_RPTD_QTY",
+    "CW_CTG_PER_VAL": -14.373356704645047
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202316,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "iPhone",
+    "MEASURE_NAME": "ST_RPTD_QTY",
+    "CW_CTG_PER_VAL": -14.825581395348838
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202317,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "iPhone",
+    "MEASURE_NAME": "ST_RPTD_QTY",
+    "CW_CTG_PER_VAL": -8.052147239263803
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202318,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "iPhone",
+    "MEASURE_NAME": "ST_RPTD_QTY",
+    "CW_CTG_PER_VAL": -7.404326123128119
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202319,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "iPhone",
+    "MEASURE_NAME": "ST_RPTD_QTY",
+    "CW_CTG_PER_VAL": -10.360884749708964
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202320,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "iPhone",
+    "MEASURE_NAME": "ST_RPTD_QTY",
+    "CW_CTG_PER_VAL": -12.549800796812749
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202321,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "iPhone",
+    "MEASURE_NAME": "ST_RPTD_QTY",
+    "CW_CTG_PER_VAL": -12.297734627831716
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202308,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Mac",
+    "MEASURE_NAME": "ST_RPTD_QTY",
+    "CW_CTG_PER_VAL": 0.27124773960216997
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202309,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Mac",
+    "MEASURE_NAME": "ST_RPTD_QTY",
+    "CW_CTG_PER_VAL": 7.944962272525522
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202310,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Mac",
+    "MEASURE_NAME": "ST_RPTD_QTY",
+    "CW_CTG_PER_VAL": 4.204753199268739
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202311,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Mac",
+    "MEASURE_NAME": "ST_RPTD_QTY",
+    "CW_CTG_PER_VAL": 1.4114326040931546
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202312,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Mac",
+    "MEASURE_NAME": "ST_RPTD_QTY",
+    "CW_CTG_PER_VAL": 1.57600406710727
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202313,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Mac",
+    "MEASURE_NAME": "ST_RPTD_QTY",
+    "CW_CTG_PER_VAL": 1.9798766634209672
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202314,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Mac",
+    "MEASURE_NAME": "ST_RPTD_QTY",
+    "CW_CTG_PER_VAL": -6.725925925925926
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202315,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Mac",
+    "MEASURE_NAME": "ST_RPTD_QTY",
+    "CW_CTG_PER_VAL": -9.596844872918492
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202316,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Mac",
+    "MEASURE_NAME": "ST_RPTD_QTY",
+    "CW_CTG_PER_VAL": -11.700581395348838
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202317,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Mac",
+    "MEASURE_NAME": "ST_RPTD_QTY",
+    "CW_CTG_PER_VAL": -11.656441717791411
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202318,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Mac",
+    "MEASURE_NAME": "ST_RPTD_QTY",
+    "CW_CTG_PER_VAL": -3.660565723793677
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202319,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Mac",
+    "MEASURE_NAME": "ST_RPTD_QTY",
+    "CW_CTG_PER_VAL": -6.461001164144354
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202320,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Mac",
+    "MEASURE_NAME": "ST_RPTD_QTY",
+    "CW_CTG_PER_VAL": -1.2616201859229748
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202321,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Mac",
+    "MEASURE_NAME": "ST_RPTD_QTY",
+    "CW_CTG_PER_VAL": -4.854368932038835
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202308,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Watch",
+    "MEASURE_NAME": "ST_RPTD_QTY",
+    "CW_CTG_PER_VAL": -14.526823387582882
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202309,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Watch",
+    "MEASURE_NAME": "ST_RPTD_QTY",
+    "CW_CTG_PER_VAL": 12.782956058588548
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202310,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Watch",
+    "MEASURE_NAME": "ST_RPTD_QTY",
+    "CW_CTG_PER_VAL": -9.287020109689214
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202311,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Watch",
+    "MEASURE_NAME": "ST_RPTD_QTY",
+    "CW_CTG_PER_VAL": -4.65772759350741
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202312,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Watch",
+    "MEASURE_NAME": "ST_RPTD_QTY",
+    "CW_CTG_PER_VAL": -17.183528215556684
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202313,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Watch",
+    "MEASURE_NAME": "ST_RPTD_QTY",
+    "CW_CTG_PER_VAL": -16.715352158390132
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202314,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Watch",
+    "MEASURE_NAME": "ST_RPTD_QTY",
+    "CW_CTG_PER_VAL": -18.992592592592594
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202315,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Watch",
+    "MEASURE_NAME": "ST_RPTD_QTY",
+    "CW_CTG_PER_VAL": -13.891323400525854
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202316,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Watch",
+    "MEASURE_NAME": "ST_RPTD_QTY",
+    "CW_CTG_PER_VAL": -9.811046511627907
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202317,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Watch",
+    "MEASURE_NAME": "ST_RPTD_QTY",
+    "CW_CTG_PER_VAL": -8.97239263803681
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202318,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Watch",
+    "MEASURE_NAME": "ST_RPTD_QTY",
+    "CW_CTG_PER_VAL": -2.8286189683860234
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202319,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Watch",
+    "MEASURE_NAME": "ST_RPTD_QTY",
+    "CW_CTG_PER_VAL": -0.23282887077997672
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202320,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Watch",
+    "MEASURE_NAME": "ST_RPTD_QTY",
+    "CW_CTG_PER_VAL": 8.432934926958831
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202321,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Watch",
+    "MEASURE_NAME": "ST_RPTD_QTY",
+    "CW_CTG_PER_VAL": -0.8090614886731392
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202308,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Accessories",
+    "MEASURE_NAME": "TS_ADJD_LOC_AMT",
+    "CW_CTG_PER_VAL": 2.4110910186859553
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202309,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Accessories",
+    "MEASURE_NAME": "TS_ADJD_LOC_AMT",
+    "CW_CTG_PER_VAL": 6.213936972924989
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202310,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Accessories",
+    "MEASURE_NAME": "TS_ADJD_LOC_AMT",
+    "CW_CTG_PER_VAL": -5.434380776340111
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202311,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Accessories",
+    "MEASURE_NAME": "TS_ADJD_LOC_AMT",
+    "CW_CTG_PER_VAL": -9.89136649514008
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202312,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Accessories",
+    "MEASURE_NAME": "TS_ADJD_LOC_AMT",
+    "CW_CTG_PER_VAL": -8.324768756423433
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202313,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Accessories",
+    "MEASURE_NAME": "TS_ADJD_LOC_AMT",
+    "CW_CTG_PER_VAL": -5.911788665192598
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202314,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Accessories",
+    "MEASURE_NAME": "TS_ADJD_LOC_AMT",
+    "CW_CTG_PER_VAL": -16.977777777777778
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202315,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Accessories",
+    "MEASURE_NAME": "TS_ADJD_LOC_AMT",
+    "CW_CTG_PER_VAL": -23.356704645048204
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202316,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Accessories",
+    "MEASURE_NAME": "TS_ADJD_LOC_AMT",
+    "CW_CTG_PER_VAL": ""
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202317,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Accessories",
+    "MEASURE_NAME": "TS_ADJD_LOC_AMT",
+    "CW_CTG_PER_VAL": ""
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202318,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Accessories",
+    "MEASURE_NAME": "TS_ADJD_LOC_AMT",
+    "CW_CTG_PER_VAL": -15.32258064516129
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202319,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Accessories",
+    "MEASURE_NAME": "TS_ADJD_LOC_AMT",
+    "CW_CTG_PER_VAL": 19.141104294478527
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202320,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Accessories",
+    "MEASURE_NAME": "TS_ADJD_LOC_AMT",
+    "CW_CTG_PER_VAL": -3.6983321247280636
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202321,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Accessories",
+    "MEASURE_NAME": "TS_ADJD_LOC_AMT",
+    "CW_CTG_PER_VAL": -6.385341476957246
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202308,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Home",
+    "MEASURE_NAME": "TS_ADJD_LOC_AMT",
+    "CW_CTG_PER_VAL": -4.792043399638336
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202309,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Home",
+    "MEASURE_NAME": "TS_ADJD_LOC_AMT",
+    "CW_CTG_PER_VAL": ""
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202310,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Home",
+    "MEASURE_NAME": "TS_ADJD_LOC_AMT",
+    "CW_CTG_PER_VAL": -6.173752310536044
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202311,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Home",
+    "MEASURE_NAME": "TS_ADJD_LOC_AMT",
+    "CW_CTG_PER_VAL": -6.918238993710692
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202312,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Home",
+    "MEASURE_NAME": "TS_ADJD_LOC_AMT",
+    "CW_CTG_PER_VAL": -9.712230215827338
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202313,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Home",
+    "MEASURE_NAME": "TS_ADJD_LOC_AMT",
+    "CW_CTG_PER_VAL": -2.5136739206330736
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202314,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Home",
+    "MEASURE_NAME": "TS_ADJD_LOC_AMT",
+    "CW_CTG_PER_VAL": -4.029629629629629
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202315,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Home",
+    "MEASURE_NAME": "TS_ADJD_LOC_AMT",
+    "CW_CTG_PER_VAL": ""
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202316,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Home",
+    "MEASURE_NAME": "TS_ADJD_LOC_AMT",
+    "CW_CTG_PER_VAL": ""
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202317,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Home",
+    "MEASURE_NAME": "TS_ADJD_LOC_AMT",
+    "CW_CTG_PER_VAL": ""
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202318,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Home",
+    "MEASURE_NAME": "TS_ADJD_LOC_AMT",
+    "CW_CTG_PER_VAL": 4.105571847507331
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202319,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Home",
+    "MEASURE_NAME": "TS_ADJD_LOC_AMT",
+    "CW_CTG_PER_VAL": -2.085889570552147
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202320,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Home",
+    "MEASURE_NAME": "TS_ADJD_LOC_AMT",
+    "CW_CTG_PER_VAL": -4.205946337926034
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202321,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Home",
+    "MEASURE_NAME": "TS_ADJD_LOC_AMT",
+    "CW_CTG_PER_VAL": -3.498056635202665
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202308,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "iPad",
+    "MEASURE_NAME": "TS_ADJD_LOC_AMT",
+    "CW_CTG_PER_VAL": -5.1235684147076554
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202309,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "iPad",
+    "MEASURE_NAME": "TS_ADJD_LOC_AMT",
+    "CW_CTG_PER_VAL": -16.600088770528185
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202310,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "iPad",
+    "MEASURE_NAME": "TS_ADJD_LOC_AMT",
+    "CW_CTG_PER_VAL": -25.138632162661736
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202311,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "iPad",
+    "MEASURE_NAME": "TS_ADJD_LOC_AMT",
+    "CW_CTG_PER_VAL": -9.433962264150944
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202312,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "iPad",
+    "MEASURE_NAME": "TS_ADJD_LOC_AMT",
+    "CW_CTG_PER_VAL": -13.771839671120247
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202313,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "iPad",
+    "MEASURE_NAME": "TS_ADJD_LOC_AMT",
+    "CW_CTG_PER_VAL": -2.0016292330967067
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202314,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "iPad",
+    "MEASURE_NAME": "TS_ADJD_LOC_AMT",
+    "CW_CTG_PER_VAL": -6.044444444444444
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202315,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "iPad",
+    "MEASURE_NAME": "TS_ADJD_LOC_AMT",
+    "CW_CTG_PER_VAL": -0.43821209465381245
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202316,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "iPad",
+    "MEASURE_NAME": "TS_ADJD_LOC_AMT",
+    "CW_CTG_PER_VAL": 3.125
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202317,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "iPad",
+    "MEASURE_NAME": "TS_ADJD_LOC_AMT",
+    "CW_CTG_PER_VAL": -14.088820826952526
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202318,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "iPad",
+    "MEASURE_NAME": "TS_ADJD_LOC_AMT",
+    "CW_CTG_PER_VAL": 4.9853372434017595
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202319,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "iPad",
+    "MEASURE_NAME": "TS_ADJD_LOC_AMT",
+    "CW_CTG_PER_VAL": -16.012269938650306
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202320,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "iPad",
+    "MEASURE_NAME": "TS_ADJD_LOC_AMT",
+    "CW_CTG_PER_VAL": -11.094996374184191
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202321,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "iPad",
+    "MEASURE_NAME": "TS_ADJD_LOC_AMT",
+    "CW_CTG_PER_VAL": -13.159355913381455
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202308,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "iPhone",
+    "MEASURE_NAME": "TS_ADJD_LOC_AMT",
+    "CW_CTG_PER_VAL": -25.49728752260398
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202309,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "iPhone",
+    "MEASURE_NAME": "TS_ADJD_LOC_AMT",
+    "CW_CTG_PER_VAL": -28.62849533954727
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202310,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "iPhone",
+    "MEASURE_NAME": "TS_ADJD_LOC_AMT",
+    "CW_CTG_PER_VAL": -11.238447319778189
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202311,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "iPhone",
+    "MEASURE_NAME": "TS_ADJD_LOC_AMT",
+    "CW_CTG_PER_VAL": -16.00914808461978
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202312,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "iPhone",
+    "MEASURE_NAME": "TS_ADJD_LOC_AMT",
+    "CW_CTG_PER_VAL": 5.858170606372045
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202313,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "iPhone",
+    "MEASURE_NAME": "TS_ADJD_LOC_AMT",
+    "CW_CTG_PER_VAL": 11.113697195391598
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202314,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "iPhone",
+    "MEASURE_NAME": "TS_ADJD_LOC_AMT",
+    "CW_CTG_PER_VAL": -20.237037037037037
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202315,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "iPhone",
+    "MEASURE_NAME": "TS_ADJD_LOC_AMT",
+    "CW_CTG_PER_VAL": -14.373356704645047
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202316,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "iPhone",
+    "MEASURE_NAME": "TS_ADJD_LOC_AMT",
+    "CW_CTG_PER_VAL": -14.825581395348838
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202317,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "iPhone",
+    "MEASURE_NAME": "TS_ADJD_LOC_AMT",
+    "CW_CTG_PER_VAL": -7.810107197549771
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202318,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "iPhone",
+    "MEASURE_NAME": "TS_ADJD_LOC_AMT",
+    "CW_CTG_PER_VAL": -9.164222873900293
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202319,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "iPhone",
+    "MEASURE_NAME": "TS_ADJD_LOC_AMT",
+    "CW_CTG_PER_VAL": -9.938650306748466
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202320,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "iPhone",
+    "MEASURE_NAME": "TS_ADJD_LOC_AMT",
+    "CW_CTG_PER_VAL": -11.16751269035533
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202321,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "iPhone",
+    "MEASURE_NAME": "TS_ADJD_LOC_AMT",
+    "CW_CTG_PER_VAL": -12.270960577456968
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202308,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Mac",
+    "MEASURE_NAME": "TS_ADJD_LOC_AMT",
+    "CW_CTG_PER_VAL": 0.24110910186859555
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202309,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Mac",
+    "MEASURE_NAME": "TS_ADJD_LOC_AMT",
+    "CW_CTG_PER_VAL": 4.527296937416778
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202310,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Mac",
+    "MEASURE_NAME": "TS_ADJD_LOC_AMT",
+    "CW_CTG_PER_VAL": 6.3955637707948245
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202311,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Mac",
+    "MEASURE_NAME": "TS_ADJD_LOC_AMT",
+    "CW_CTG_PER_VAL": 0.5145797598627787
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202312,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Mac",
+    "MEASURE_NAME": "TS_ADJD_LOC_AMT",
+    "CW_CTG_PER_VAL": 2.723535457348407
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202313,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Mac",
+    "MEASURE_NAME": "TS_ADJD_LOC_AMT",
+    "CW_CTG_PER_VAL": -39.124869079483304
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202314,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Mac",
+    "MEASURE_NAME": "TS_ADJD_LOC_AMT",
+    "CW_CTG_PER_VAL": -5.807407407407408
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202315,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Mac",
+    "MEASURE_NAME": "TS_ADJD_LOC_AMT",
+    "CW_CTG_PER_VAL": -9.596844872918492
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202316,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Mac",
+    "MEASURE_NAME": "TS_ADJD_LOC_AMT",
+    "CW_CTG_PER_VAL": -11.700581395348838
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202317,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Mac",
+    "MEASURE_NAME": "TS_ADJD_LOC_AMT",
+    "CW_CTG_PER_VAL": -11.638591117917304
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202318,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Mac",
+    "MEASURE_NAME": "TS_ADJD_LOC_AMT",
+    "CW_CTG_PER_VAL": -3.665689149560117
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202319,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Mac",
+    "MEASURE_NAME": "TS_ADJD_LOC_AMT",
+    "CW_CTG_PER_VAL": -2.392638036809816
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202320,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Mac",
+    "MEASURE_NAME": "TS_ADJD_LOC_AMT",
+    "CW_CTG_PER_VAL": -1.160261058738216
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202321,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Mac",
+    "MEASURE_NAME": "TS_ADJD_LOC_AMT",
+    "CW_CTG_PER_VAL": -2.498611882287618
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202308,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Watch",
+    "MEASURE_NAME": "TS_ADJD_LOC_AMT",
+    "CW_CTG_PER_VAL": -14.526823387582882
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202309,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Watch",
+    "MEASURE_NAME": "TS_ADJD_LOC_AMT",
+    "CW_CTG_PER_VAL": 6.56901908566356
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202310,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Watch",
+    "MEASURE_NAME": "TS_ADJD_LOC_AMT",
+    "CW_CTG_PER_VAL": -7.8743068391866915
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202311,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Watch",
+    "MEASURE_NAME": "TS_ADJD_LOC_AMT",
+    "CW_CTG_PER_VAL": -8.747855917667238
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202312,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Watch",
+    "MEASURE_NAME": "TS_ADJD_LOC_AMT",
+    "CW_CTG_PER_VAL": -17.985611510791365
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202313,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Watch",
+    "MEASURE_NAME": "TS_ADJD_LOC_AMT",
+    "CW_CTG_PER_VAL": -7.866868381240544
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202314,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Watch",
+    "MEASURE_NAME": "TS_ADJD_LOC_AMT",
+    "CW_CTG_PER_VAL": -11.407407407407407
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202315,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Watch",
+    "MEASURE_NAME": "TS_ADJD_LOC_AMT",
+    "CW_CTG_PER_VAL": -13.891323400525854
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202316,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Watch",
+    "MEASURE_NAME": "TS_ADJD_LOC_AMT",
+    "CW_CTG_PER_VAL": -9.811046511627907
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202317,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Watch",
+    "MEASURE_NAME": "TS_ADJD_LOC_AMT",
+    "CW_CTG_PER_VAL": -8.95865237366003
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202318,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Watch",
+    "MEASURE_NAME": "TS_ADJD_LOC_AMT",
+    "CW_CTG_PER_VAL": -4.618768328445748
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202319,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Watch",
+    "MEASURE_NAME": "TS_ADJD_LOC_AMT",
+    "CW_CTG_PER_VAL": -0.24539877300613497
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202320,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Watch",
+    "MEASURE_NAME": "TS_ADJD_LOC_AMT",
+    "CW_CTG_PER_VAL": 10.732414793328498
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202321,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Watch",
+    "MEASURE_NAME": "TS_ADJD_LOC_AMT",
+    "CW_CTG_PER_VAL": -0.7773459189339256
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202308,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Accessories",
+    "MEASURE_NAME": "TS_ADJD_USD_AMT",
+    "CW_CTG_PER_VAL": 0.2825605252849751
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202309,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Accessories",
+    "MEASURE_NAME": "TS_ADJD_USD_AMT",
+    "CW_CTG_PER_VAL": 0.9218833145850442
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202310,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Accessories",
+    "MEASURE_NAME": "TS_ADJD_USD_AMT",
+    "CW_CTG_PER_VAL": -0.44274270810996447
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202311,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Accessories",
+    "MEASURE_NAME": "TS_ADJD_USD_AMT",
+    "CW_CTG_PER_VAL": -1.4226914911397406
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202312,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Accessories",
+    "MEASURE_NAME": "TS_ADJD_USD_AMT",
+    "CW_CTG_PER_VAL": -1.5553984611228084
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202313,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Accessories",
+    "MEASURE_NAME": "TS_ADJD_USD_AMT",
+    "CW_CTG_PER_VAL": -0.31697521173328735
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202314,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Accessories",
+    "MEASURE_NAME": "TS_ADJD_USD_AMT",
+    "CW_CTG_PER_VAL": -1.0716759930045148
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202315,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Accessories",
+    "MEASURE_NAME": "TS_ADJD_USD_AMT",
+    "CW_CTG_PER_VAL": -1.6554570985386918
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202316,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Accessories",
+    "MEASURE_NAME": "TS_ADJD_USD_AMT",
+    "CW_CTG_PER_VAL": ""
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202317,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Accessories",
+    "MEASURE_NAME": "TS_ADJD_USD_AMT",
+    "CW_CTG_PER_VAL": ""
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202318,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Accessories",
+    "MEASURE_NAME": "TS_ADJD_USD_AMT",
+    "CW_CTG_PER_VAL": -1.1442629463604885
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202319,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Accessories",
+    "MEASURE_NAME": "TS_ADJD_USD_AMT",
+    "CW_CTG_PER_VAL": 2.05415998226612
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202320,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Accessories",
+    "MEASURE_NAME": "TS_ADJD_USD_AMT",
+    "CW_CTG_PER_VAL": -0.0480417917496466
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202321,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Accessories",
+    "MEASURE_NAME": "TS_ADJD_USD_AMT",
+    "CW_CTG_PER_VAL": -1.1130203507719267
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202308,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Home",
+    "MEASURE_NAME": "TS_ADJD_USD_AMT",
+    "CW_CTG_PER_VAL": -1.4515255062202546
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202309,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Home",
+    "MEASURE_NAME": "TS_ADJD_USD_AMT",
+    "CW_CTG_PER_VAL": ""
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202310,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Home",
+    "MEASURE_NAME": "TS_ADJD_USD_AMT",
+    "CW_CTG_PER_VAL": -2.3057087020073683
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202311,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Home",
+    "MEASURE_NAME": "TS_ADJD_USD_AMT",
+    "CW_CTG_PER_VAL": -2.2361861034334627
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202312,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Home",
+    "MEASURE_NAME": "TS_ADJD_USD_AMT",
+    "CW_CTG_PER_VAL": -3.4283597132932697
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202313,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Home",
+    "MEASURE_NAME": "TS_ADJD_USD_AMT",
+    "CW_CTG_PER_VAL": -0.556765202876504
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202314,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Home",
+    "MEASURE_NAME": "TS_ADJD_USD_AMT",
+    "CW_CTG_PER_VAL": -1.1974199257326663
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202315,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Home",
+    "MEASURE_NAME": "TS_ADJD_USD_AMT",
+    "CW_CTG_PER_VAL": ""
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202316,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Home",
+    "MEASURE_NAME": "TS_ADJD_USD_AMT",
+    "CW_CTG_PER_VAL": ""
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202317,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Home",
+    "MEASURE_NAME": "TS_ADJD_USD_AMT",
+    "CW_CTG_PER_VAL": ""
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202318,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Home",
+    "MEASURE_NAME": "TS_ADJD_USD_AMT",
+    "CW_CTG_PER_VAL": 0.5045955225273948
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202319,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Home",
+    "MEASURE_NAME": "TS_ADJD_USD_AMT",
+    "CW_CTG_PER_VAL": -1.022015804604252
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202320,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Home",
+    "MEASURE_NAME": "TS_ADJD_USD_AMT",
+    "CW_CTG_PER_VAL": -1.6128687237062782
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202321,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Home",
+    "MEASURE_NAME": "TS_ADJD_USD_AMT",
+    "CW_CTG_PER_VAL": -1.3446123226834594
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202308,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "iPad",
+    "MEASURE_NAME": "TS_ADJD_USD_AMT",
+    "CW_CTG_PER_VAL": -4.695425482701756
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202309,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "iPad",
+    "MEASURE_NAME": "TS_ADJD_USD_AMT",
+    "CW_CTG_PER_VAL": -12.961768614932401
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202310,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "iPad",
+    "MEASURE_NAME": "TS_ADJD_USD_AMT",
+    "CW_CTG_PER_VAL": -23.19893421878143
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202311,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "iPad",
+    "MEASURE_NAME": "TS_ADJD_USD_AMT",
+    "CW_CTG_PER_VAL": -11.275515461425515
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202312,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "iPad",
+    "MEASURE_NAME": "TS_ADJD_USD_AMT",
+    "CW_CTG_PER_VAL": -17.07841796031024
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202313,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "iPad",
+    "MEASURE_NAME": "TS_ADJD_USD_AMT",
+    "CW_CTG_PER_VAL": -1.8377068359254032
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202314,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "iPad",
+    "MEASURE_NAME": "TS_ADJD_USD_AMT",
+    "CW_CTG_PER_VAL": -4.387878874397951
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202315,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "iPad",
+    "MEASURE_NAME": "TS_ADJD_USD_AMT",
+    "CW_CTG_PER_VAL": -2.611694860450902
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202316,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "iPad",
+    "MEASURE_NAME": "TS_ADJD_USD_AMT",
+    "CW_CTG_PER_VAL": 2.0366605004790816
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202317,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "iPad",
+    "MEASURE_NAME": "TS_ADJD_USD_AMT",
+    "CW_CTG_PER_VAL": -9.643353667784499
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202318,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "iPad",
+    "MEASURE_NAME": "TS_ADJD_USD_AMT",
+    "CW_CTG_PER_VAL": 2.0363739337206614
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202319,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "iPad",
+    "MEASURE_NAME": "TS_ADJD_USD_AMT",
+    "CW_CTG_PER_VAL": -15.93778204479368
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202320,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "iPad",
+    "MEASURE_NAME": "TS_ADJD_USD_AMT",
+    "CW_CTG_PER_VAL": -15.813579174941022
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202321,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "iPad",
+    "MEASURE_NAME": "TS_ADJD_USD_AMT",
+    "CW_CTG_PER_VAL": -17.879530135100723
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202308,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "iPhone",
+    "MEASURE_NAME": "TS_ADJD_USD_AMT",
+    "CW_CTG_PER_VAL": -40.80381141071364
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202309,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "iPhone",
+    "MEASURE_NAME": "TS_ADJD_USD_AMT",
+    "CW_CTG_PER_VAL": -38.02907162211542
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202310,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "iPhone",
+    "MEASURE_NAME": "TS_ADJD_USD_AMT",
+    "CW_CTG_PER_VAL": -24.304215619897167
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202311,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "iPhone",
+    "MEASURE_NAME": "TS_ADJD_USD_AMT",
+    "CW_CTG_PER_VAL": -36.55740417673279
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202312,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "iPhone",
+    "MEASURE_NAME": "TS_ADJD_USD_AMT",
+    "CW_CTG_PER_VAL": 11.263590857031314
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202313,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "iPhone",
+    "MEASURE_NAME": "TS_ADJD_USD_AMT",
+    "CW_CTG_PER_VAL": 26.51617551987317
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202314,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "iPhone",
+    "MEASURE_NAME": "TS_ADJD_USD_AMT",
+    "CW_CTG_PER_VAL": -39.54403279129809
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202315,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "iPhone",
+    "MEASURE_NAME": "TS_ADJD_USD_AMT",
+    "CW_CTG_PER_VAL": -31.3853586079237
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202316,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "iPhone",
+    "MEASURE_NAME": "TS_ADJD_USD_AMT",
+    "CW_CTG_PER_VAL": -24.923962857808394
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202317,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "iPhone",
+    "MEASURE_NAME": "TS_ADJD_USD_AMT",
+    "CW_CTG_PER_VAL": -13.161025892721726
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202318,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "iPhone",
+    "MEASURE_NAME": "TS_ADJD_USD_AMT",
+    "CW_CTG_PER_VAL": -18.8344460844167
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202319,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "iPhone",
+    "MEASURE_NAME": "TS_ADJD_USD_AMT",
+    "CW_CTG_PER_VAL": -18.322612238765593
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202320,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "iPhone",
+    "MEASURE_NAME": "TS_ADJD_USD_AMT",
+    "CW_CTG_PER_VAL": -17.58562400496467
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202321,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "iPhone",
+    "MEASURE_NAME": "TS_ADJD_USD_AMT",
+    "CW_CTG_PER_VAL": -22.52328827716358
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202308,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Mac",
+    "MEASURE_NAME": "TS_ADJD_USD_AMT",
+    "CW_CTG_PER_VAL": 3.029278738819005
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202309,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Mac",
+    "MEASURE_NAME": "TS_ADJD_USD_AMT",
+    "CW_CTG_PER_VAL": 11.892972903613366
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202310,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Mac",
+    "MEASURE_NAME": "TS_ADJD_USD_AMT",
+    "CW_CTG_PER_VAL": 18.148132761716898
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202311,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Mac",
+    "MEASURE_NAME": "TS_ADJD_USD_AMT",
+    "CW_CTG_PER_VAL": -0.05812451741318272
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202312,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Mac",
+    "MEASURE_NAME": "TS_ADJD_USD_AMT",
+    "CW_CTG_PER_VAL": 4.7366261550234885
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202313,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Mac",
+    "MEASURE_NAME": "TS_ADJD_USD_AMT",
+    "CW_CTG_PER_VAL": -57.28388120808857
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202314,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Mac",
+    "MEASURE_NAME": "TS_ADJD_USD_AMT",
+    "CW_CTG_PER_VAL": -10.67507294324043
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202315,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Mac",
+    "MEASURE_NAME": "TS_ADJD_USD_AMT",
+    "CW_CTG_PER_VAL": -15.451579502367254
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202316,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Mac",
+    "MEASURE_NAME": "TS_ADJD_USD_AMT",
+    "CW_CTG_PER_VAL": -16.706232143810684
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202317,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Mac",
+    "MEASURE_NAME": "TS_ADJD_USD_AMT",
+    "CW_CTG_PER_VAL": -17.46072487824607
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202318,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Mac",
+    "MEASURE_NAME": "TS_ADJD_USD_AMT",
+    "CW_CTG_PER_VAL": -6.464076997687486
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202319,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Mac",
+    "MEASURE_NAME": "TS_ADJD_USD_AMT",
+    "CW_CTG_PER_VAL": -7.745187502998888
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202320,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Mac",
+    "MEASURE_NAME": "TS_ADJD_USD_AMT",
+    "CW_CTG_PER_VAL": -1.2803462507252066
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202321,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Mac",
+    "MEASURE_NAME": "TS_ADJD_USD_AMT",
+    "CW_CTG_PER_VAL": -6.143862702579198
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202308,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Watch",
+    "MEASURE_NAME": "TS_ADJD_USD_AMT",
+    "CW_CTG_PER_VAL": -5.815133048788041
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202309,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Watch",
+    "MEASURE_NAME": "TS_ADJD_USD_AMT",
+    "CW_CTG_PER_VAL": 1.3917747603316752
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202310,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Watch",
+    "MEASURE_NAME": "TS_ADJD_USD_AMT",
+    "CW_CTG_PER_VAL": -5.458582165357704
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202311,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Watch",
+    "MEASURE_NAME": "TS_ADJD_USD_AMT",
+    "CW_CTG_PER_VAL": -4.7901453527321145
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202312,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Watch",
+    "MEASURE_NAME": "TS_ADJD_USD_AMT",
+    "CW_CTG_PER_VAL": -10.021791172789305
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202313,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Watch",
+    "MEASURE_NAME": "TS_ADJD_USD_AMT",
+    "CW_CTG_PER_VAL": -2.8839654349309343
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202314,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Watch",
+    "MEASURE_NAME": "TS_ADJD_USD_AMT",
+    "CW_CTG_PER_VAL": -3.5338733470465273
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202315,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Watch",
+    "MEASURE_NAME": "TS_ADJD_USD_AMT",
+    "CW_CTG_PER_VAL": -6.760786866216341
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202316,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Watch",
+    "MEASURE_NAME": "TS_ADJD_USD_AMT",
+    "CW_CTG_PER_VAL": -3.848468553787498
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202317,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Watch",
+    "MEASURE_NAME": "TS_ADJD_USD_AMT",
+    "CW_CTG_PER_VAL": -3.0520529650663115
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202318,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Watch",
+    "MEASURE_NAME": "TS_ADJD_USD_AMT",
+    "CW_CTG_PER_VAL": -2.0763325479449213
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202319,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Watch",
+    "MEASURE_NAME": "TS_ADJD_USD_AMT",
+    "CW_CTG_PER_VAL": 2.9197016504797246
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202320,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Watch",
+    "MEASURE_NAME": "TS_ADJD_USD_AMT",
+    "CW_CTG_PER_VAL": 8.59526155476002
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202321,
+    "LOB_VAL": "All Products",
+    "SUB_LOB_VAL": "Watch",
+    "MEASURE_NAME": "TS_ADJD_USD_AMT",
+    "CW_CTG_PER_VAL": 2.3148477799522356
+  }
+]

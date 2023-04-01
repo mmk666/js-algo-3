@@ -1,6 +1,7 @@
-// Import stylesheets
-import './style.css';
+import mock from './ctgtable/mock.json';
 
-// Write Javascript code!
-const appDiv = document.getElementById('app');
-appDiv.innerHTML = `<h1>JS Starter</h1>`;
+import { getTabledata } from './ctgtable2';
+
+console.log(
+  getTabledata(mock, 'SUB_LOB_VAL', 'MEASURE_NAME', 'ST_RPTD_QTY', 'W')
+);
