@@ -10,7 +10,6 @@ const filterData = mockPartner.filter(
   (item) => item.MEASURE_NAME === 'ST_RPTD_QTY'
 );
 
-console
-  .log
-  //getPartnerTabledata(filterData, 'SALES_ACCT_SUBTYPE_CD', 'PARTNER_NAME')
-  ();
+console.log(
+  getPartnerTabledata(filterData, 'SALES_ACCT_SUBTYPE_CD', 'PARTNER_NAME')
+);

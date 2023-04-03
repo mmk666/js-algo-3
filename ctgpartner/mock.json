@@ -586,5 +586,299 @@
     "PARTNER_NAME": "Canada -Amazon",
     "SALES_ACCT_SUBTYPE_CD": "ECOM",
     "CW_CTG_PER_VAL": ""
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202308,
+    "MEASURE_NAME": "ST_RPTD_QTY",
+    "PARTNER_NAME": "Australia -Amazon",
+    "SALES_ACCT_SUBTYPE_CD": "ECOM",
+    "CW_CTG_PER_VAL": ""
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202309,
+    "MEASURE_NAME": "ST_RPTD_QTY",
+    "PARTNER_NAME": "Australia -Amazon",
+    "SALES_ACCT_SUBTYPE_CD": "ECOM",
+    "CW_CTG_PER_VAL": ""
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202310,
+    "MEASURE_NAME": "ST_RPTD_QTY",
+    "PARTNER_NAME": "Australia -Amazon",
+    "SALES_ACCT_SUBTYPE_CD": "ECOM",
+    "CW_CTG_PER_VAL": -79.96515679442508
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202311,
+    "MEASURE_NAME": "ST_RPTD_QTY",
+    "PARTNER_NAME": "Australia -Amazon",
+    "SALES_ACCT_SUBTYPE_CD": "ECOM",
+    "CW_CTG_PER_VAL": ""
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202312,
+    "MEASURE_NAME": "ST_RPTD_QTY",
+    "PARTNER_NAME": "Australia -Amazon",
+    "SALES_ACCT_SUBTYPE_CD": "ECOM",
+    "CW_CTG_PER_VAL": -71.875
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202313,
+    "MEASURE_NAME": "ST_RPTD_QTY",
+    "PARTNER_NAME": "Australia -Amazon",
+    "SALES_ACCT_SUBTYPE_CD": "ECOM",
+    "CW_CTG_PER_VAL": -1654.1666666666667
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202314,
+    "MEASURE_NAME": "ST_RPTD_QTY",
+    "PARTNER_NAME": "Australia -Amazon",
+    "SALES_ACCT_SUBTYPE_CD": "ECOM",
+    "CW_CTG_PER_VAL": ""
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202315,
+    "MEASURE_NAME": "ST_RPTD_QTY",
+    "PARTNER_NAME": "Australia -Amazon",
+    "SALES_ACCT_SUBTYPE_CD": "ECOM",
+    "CW_CTG_PER_VAL": ""
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202316,
+    "MEASURE_NAME": "ST_RPTD_QTY",
+    "PARTNER_NAME": "Australia -Amazon",
+    "SALES_ACCT_SUBTYPE_CD": "ECOM",
+    "CW_CTG_PER_VAL": 172.72727272727272
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202317,
+    "MEASURE_NAME": "ST_RPTD_QTY",
+    "PARTNER_NAME": "Australia -Amazon",
+    "SALES_ACCT_SUBTYPE_CD": "ECOM",
+    "CW_CTG_PER_VAL": ""
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202318,
+    "MEASURE_NAME": "ST_RPTD_QTY",
+    "PARTNER_NAME": "Australia -Amazon",
+    "SALES_ACCT_SUBTYPE_CD": "ECOM",
+    "CW_CTG_PER_VAL": 63.888888888888886
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202319,
+    "MEASURE_NAME": "ST_RPTD_QTY",
+    "PARTNER_NAME": "Australia -Amazon",
+    "SALES_ACCT_SUBTYPE_CD": "ECOM",
+    "CW_CTG_PER_VAL": ""
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202320,
+    "MEASURE_NAME": "ST_RPTD_QTY",
+    "PARTNER_NAME": "Australia -Amazon",
+    "SALES_ACCT_SUBTYPE_CD": "ECOM",
+    "CW_CTG_PER_VAL": 133.33333333333334
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202321,
+    "MEASURE_NAME": "ST_RPTD_QTY",
+    "PARTNER_NAME": "Australia -Amazon",
+    "SALES_ACCT_SUBTYPE_CD": "ECOM",
+    "CW_CTG_PER_VAL": ""
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202308,
+    "MEASURE_NAME": "TS_ADJD_LOC_AMT",
+    "PARTNER_NAME": "Australia -Amazon",
+    "SALES_ACCT_SUBTYPE_CD": "ECOM",
+    "CW_CTG_PER_VAL": -2720
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202309,
+    "MEASURE_NAME": "TS_ADJD_LOC_AMT",
+    "PARTNER_NAME": "Australia -Amazon",
+    "SALES_ACCT_SUBTYPE_CD": "ECOM",
+    "CW_CTG_PER_VAL": 269.6969696969697
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202310,
+    "MEASURE_NAME": "TS_ADJD_LOC_AMT",
+    "PARTNER_NAME": "Australia -Amazon",
+    "SALES_ACCT_SUBTYPE_CD": "ECOM",
+    "CW_CTG_PER_VAL": -3825
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202311,
+    "MEASURE_NAME": "TS_ADJD_LOC_AMT",
+    "PARTNER_NAME": "Australia -Amazon",
+    "SALES_ACCT_SUBTYPE_CD": "ECOM",
+    "CW_CTG_PER_VAL": ""
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202312,
+    "MEASURE_NAME": "TS_ADJD_LOC_AMT",
+    "PARTNER_NAME": "Australia -Amazon",
+    "SALES_ACCT_SUBTYPE_CD": "ECOM",
+    "CW_CTG_PER_VAL": ""
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202313,
+    "MEASURE_NAME": "TS_ADJD_LOC_AMT",
+    "PARTNER_NAME": "Australia -Amazon",
+    "SALES_ACCT_SUBTYPE_CD": "ECOM",
+    "CW_CTG_PER_VAL": -989.1304347826087
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202314,
+    "MEASURE_NAME": "TS_ADJD_LOC_AMT",
+    "PARTNER_NAME": "Australia -Amazon",
+    "SALES_ACCT_SUBTYPE_CD": "ECOM",
+    "CW_CTG_PER_VAL": ""
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202315,
+    "MEASURE_NAME": "TS_ADJD_LOC_AMT",
+    "PARTNER_NAME": "Australia -Amazon",
+    "SALES_ACCT_SUBTYPE_CD": "ECOM",
+    "CW_CTG_PER_VAL": ""
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202316,
+    "MEASURE_NAME": "TS_ADJD_LOC_AMT",
+    "PARTNER_NAME": "Australia -Amazon",
+    "SALES_ACCT_SUBTYPE_CD": "ECOM",
+    "CW_CTG_PER_VAL": 75
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202317,
+    "MEASURE_NAME": "TS_ADJD_LOC_AMT",
+    "PARTNER_NAME": "Australia -Amazon",
+    "SALES_ACCT_SUBTYPE_CD": "ECOM",
+    "CW_CTG_PER_VAL": 916.6666666666666
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202318,
+    "MEASURE_NAME": "TS_ADJD_LOC_AMT",
+    "PARTNER_NAME": "Australia -Amazon",
+    "SALES_ACCT_SUBTYPE_CD": "ECOM",
+    "CW_CTG_PER_VAL": 46
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202319,
+    "MEASURE_NAME": "TS_ADJD_LOC_AMT",
+    "PARTNER_NAME": "Australia -Amazon",
+    "SALES_ACCT_SUBTYPE_CD": "ECOM",
+    "CW_CTG_PER_VAL": ""
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202320,
+    "MEASURE_NAME": "TS_ADJD_LOC_AMT",
+    "PARTNER_NAME": "Australia -Amazon",
+    "SALES_ACCT_SUBTYPE_CD": "ECOM",
+    "CW_CTG_PER_VAL": 133.33333333333334
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202321,
+    "MEASURE_NAME": "TS_ADJD_LOC_AMT",
+    "PARTNER_NAME": "Australia -Amazon",
+    "SALES_ACCT_SUBTYPE_CD": "ECOM",
+    "CW_CTG_PER_VAL": -288.7096774193548
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202308,
+    "MEASURE_NAME": "TS_ADJD_USD_AMT",
+    "PARTNER_NAME": "Australia -Amazon",
+    "SALES_ACCT_SUBTYPE_CD": "ECOM",
+    "CW_CTG_PER_VAL": -128.2779566040359
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202309,
+    "MEASURE_NAME": "TS_ADJD_USD_AMT",
+    "PARTNER_NAME": "Australia -Amazon",
+    "SALES_ACCT_SUBTYPE_CD": "ECOM",
+    "CW_CTG_PER_VAL": ""
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202310,
+    "MEASURE_NAME": "TS_ADJD_USD_AMT",
+    "PARTNER_NAME": "Australia -Amazon",
+    "SALES_ACCT_SUBTYPE_CD": "ECOM",
+    "CW_CTG_PER_VAL": -205.87153419593346
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202311,
+    "MEASURE_NAME": "TS_ADJD_USD_AMT",
+    "PARTNER_NAME": "Australia -Amazon",
+    "SALES_ACCT_SUBTYPE_CD": "ECOM",
+    "CW_CTG_PER_VAL": -117.81634561081292
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202312,
+    "MEASURE_NAME": "TS_ADJD_USD_AMT",
+    "PARTNER_NAME": "Australia -Amazon",
+    "SALES_ACCT_SUBTYPE_CD": "ECOM",
+    "CW_CTG_PER_VAL": ""
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202313,
+    "MEASURE_NAME": "TS_ADJD_USD_AMT",
+    "PARTNER_NAME": "Australia -Amazon",
+    "SALES_ACCT_SUBTYPE_CD": "ECOM",
+    "CW_CTG_PER_VAL": ""
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202314,
+    "MEASURE_NAME": "TS_ADJD_USD_AMT",
+    "PARTNER_NAME": "Australia -Amazon",
+    "SALES_ACCT_SUBTYPE_CD": "ECOM",
+    "CW_CTG_PER_VAL": ""
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202315,
+    "MEASURE_NAME": "TS_ADJD_USD_AMT",
+    "PARTNER_NAME": "Australia -Amazon",
+    "SALES_ACCT_SUBTYPE_CD": "ECOM",
+    "CW_CTG_PER_VAL": ""
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202316,
+    "MEASURE_NAME": "TS_ADJD_USD_AMT",
+    "PARTNER_NAME": "Australia -Amazon",
+    "SALES_ACCT_SUBTYPE_CD": "ECOM",
+    "CW_CTG_PER_VAL": ""
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202317,
+    "MEASURE_NAME": "TS_ADJD_USD_AMT",
+    "PARTNER_NAME": "Australia -Amazon",
+    "SALES_ACCT_SUBTYPE_CD": "ECOM",
+    "CW_CTG_PER_VAL": 403.292043298739
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202318,
+    "MEASURE_NAME": "TS_ADJD_USD_AMT",
+    "PARTNER_NAME": "Australia -Amazon",
+    "SALES_ACCT_SUBTYPE_CD": "ECOM",
+    "CW_CTG_PER_VAL": -1.4156542005653985
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202319,
+    "MEASURE_NAME": "TS_ADJD_USD_AMT",
+    "PARTNER_NAME": "Australia -Amazon",
+    "SALES_ACCT_SUBTYPE_CD": "ECOM",
+    "CW_CTG_PER_VAL": -90.06154842889536
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202320,
+    "MEASURE_NAME": "TS_ADJD_USD_AMT",
+    "PARTNER_NAME": "Australia -Amazon",
+    "SALES_ACCT_SUBTYPE_CD": "ECOM",
+    "CW_CTG_PER_VAL": ""
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202321,
+    "MEASURE_NAME": "TS_ADJD_USD_AMT",
+    "PARTNER_NAME": "Australia -Amazon",
+    "SALES_ACCT_SUBTYPE_CD": "ECOM",
+    "CW_CTG_PER_VAL": ""
   }
 ]
