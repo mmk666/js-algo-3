@@ -880,5 +880,299 @@
     "PARTNER_NAME": "Australia -Amazon",
     "SALES_ACCT_SUBTYPE_CD": "ECOM",
     "CW_CTG_PER_VAL": ""
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202308,
+    "MEASURE_NAME": "ST_RPTD_QTY",
+    "PARTNER_NAME": "Germany -Cyberport",
+    "SALES_ACCT_SUBTYPE_CD": "MULTIBRAND",
+    "CW_CTG_PER_VAL": ""
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202309,
+    "MEASURE_NAME": "ST_RPTD_QTY",
+    "PARTNER_NAME": "Germany -Cyberport",
+    "SALES_ACCT_SUBTYPE_CD": "MULTIBRAND",
+    "CW_CTG_PER_VAL": ""
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202310,
+    "MEASURE_NAME": "ST_RPTD_QTY",
+    "PARTNER_NAME": "Germany -Cyberport",
+    "SALES_ACCT_SUBTYPE_CD": "MULTIBRAND",
+    "CW_CTG_PER_VAL": ""
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202311,
+    "MEASURE_NAME": "ST_RPTD_QTY",
+    "PARTNER_NAME": "Germany -Cyberport",
+    "SALES_ACCT_SUBTYPE_CD": "MULTIBRAND",
+    "CW_CTG_PER_VAL": ""
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202312,
+    "MEASURE_NAME": "ST_RPTD_QTY",
+    "PARTNER_NAME": "Germany -Cyberport",
+    "SALES_ACCT_SUBTYPE_CD": "MULTIBRAND",
+    "CW_CTG_PER_VAL": ""
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202313,
+    "MEASURE_NAME": "ST_RPTD_QTY",
+    "PARTNER_NAME": "Germany -Cyberport",
+    "SALES_ACCT_SUBTYPE_CD": "MULTIBRAND",
+    "CW_CTG_PER_VAL": ""
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202314,
+    "MEASURE_NAME": "ST_RPTD_QTY",
+    "PARTNER_NAME": "Germany -Cyberport",
+    "SALES_ACCT_SUBTYPE_CD": "MULTIBRAND",
+    "CW_CTG_PER_VAL": ""
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202315,
+    "MEASURE_NAME": "ST_RPTD_QTY",
+    "PARTNER_NAME": "Germany -Cyberport",
+    "SALES_ACCT_SUBTYPE_CD": "MULTIBRAND",
+    "CW_CTG_PER_VAL": ""
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202316,
+    "MEASURE_NAME": "ST_RPTD_QTY",
+    "PARTNER_NAME": "Germany -Cyberport",
+    "SALES_ACCT_SUBTYPE_CD": "MULTIBRAND",
+    "CW_CTG_PER_VAL": ""
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202317,
+    "MEASURE_NAME": "ST_RPTD_QTY",
+    "PARTNER_NAME": "Germany -Cyberport",
+    "SALES_ACCT_SUBTYPE_CD": "MULTIBRAND",
+    "CW_CTG_PER_VAL": -80
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202318,
+    "MEASURE_NAME": "ST_RPTD_QTY",
+    "PARTNER_NAME": "Germany -Cyberport",
+    "SALES_ACCT_SUBTYPE_CD": "MULTIBRAND",
+    "CW_CTG_PER_VAL": -38.46153846153846
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202319,
+    "MEASURE_NAME": "ST_RPTD_QTY",
+    "PARTNER_NAME": "Germany -Cyberport",
+    "SALES_ACCT_SUBTYPE_CD": "MULTIBRAND",
+    "CW_CTG_PER_VAL": ""
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202320,
+    "MEASURE_NAME": "ST_RPTD_QTY",
+    "PARTNER_NAME": "Germany -Cyberport",
+    "SALES_ACCT_SUBTYPE_CD": "MULTIBRAND",
+    "CW_CTG_PER_VAL": ""
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202321,
+    "MEASURE_NAME": "ST_RPTD_QTY",
+    "PARTNER_NAME": "Germany -Cyberport",
+    "SALES_ACCT_SUBTYPE_CD": "MULTIBRAND",
+    "CW_CTG_PER_VAL": ""
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202308,
+    "MEASURE_NAME": "TS_ADJD_LOC_AMT",
+    "PARTNER_NAME": "Germany -Cyberport",
+    "SALES_ACCT_SUBTYPE_CD": "MULTIBRAND",
+    "CW_CTG_PER_VAL": ""
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202309,
+    "MEASURE_NAME": "TS_ADJD_LOC_AMT",
+    "PARTNER_NAME": "Germany -Cyberport",
+    "SALES_ACCT_SUBTYPE_CD": "MULTIBRAND",
+    "CW_CTG_PER_VAL": ""
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202310,
+    "MEASURE_NAME": "TS_ADJD_LOC_AMT",
+    "PARTNER_NAME": "Germany -Cyberport",
+    "SALES_ACCT_SUBTYPE_CD": "MULTIBRAND",
+    "CW_CTG_PER_VAL": ""
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202311,
+    "MEASURE_NAME": "TS_ADJD_LOC_AMT",
+    "PARTNER_NAME": "Germany -Cyberport",
+    "SALES_ACCT_SUBTYPE_CD": "MULTIBRAND",
+    "CW_CTG_PER_VAL": ""
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202312,
+    "MEASURE_NAME": "TS_ADJD_LOC_AMT",
+    "PARTNER_NAME": "Germany -Cyberport",
+    "SALES_ACCT_SUBTYPE_CD": "MULTIBRAND",
+    "CW_CTG_PER_VAL": -66.34938409854423
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202313,
+    "MEASURE_NAME": "TS_ADJD_LOC_AMT",
+    "PARTNER_NAME": "Germany -Cyberport",
+    "SALES_ACCT_SUBTYPE_CD": "MULTIBRAND",
+    "CW_CTG_PER_VAL": ""
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202314,
+    "MEASURE_NAME": "TS_ADJD_LOC_AMT",
+    "PARTNER_NAME": "Germany -Cyberport",
+    "SALES_ACCT_SUBTYPE_CD": "MULTIBRAND",
+    "CW_CTG_PER_VAL": ""
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202315,
+    "MEASURE_NAME": "TS_ADJD_LOC_AMT",
+    "PARTNER_NAME": "Germany -Cyberport",
+    "SALES_ACCT_SUBTYPE_CD": "MULTIBRAND",
+    "CW_CTG_PER_VAL": -26.11540749553837
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202316,
+    "MEASURE_NAME": "TS_ADJD_LOC_AMT",
+    "PARTNER_NAME": "Germany -Cyberport",
+    "SALES_ACCT_SUBTYPE_CD": "MULTIBRAND",
+    "CW_CTG_PER_VAL": -80.77413866439812
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202317,
+    "MEASURE_NAME": "TS_ADJD_LOC_AMT",
+    "PARTNER_NAME": "Germany -Cyberport",
+    "SALES_ACCT_SUBTYPE_CD": "MULTIBRAND",
+    "CW_CTG_PER_VAL": ""
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202318,
+    "MEASURE_NAME": "TS_ADJD_LOC_AMT",
+    "PARTNER_NAME": "Germany -Cyberport",
+    "SALES_ACCT_SUBTYPE_CD": "MULTIBRAND",
+    "CW_CTG_PER_VAL": ""
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202319,
+    "MEASURE_NAME": "TS_ADJD_LOC_AMT",
+    "PARTNER_NAME": "Germany -Cyberport",
+    "SALES_ACCT_SUBTYPE_CD": "MULTIBRAND",
+    "CW_CTG_PER_VAL": ""
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202320,
+    "MEASURE_NAME": "TS_ADJD_LOC_AMT",
+    "PARTNER_NAME": "Germany -Cyberport",
+    "SALES_ACCT_SUBTYPE_CD": "MULTIBRAND",
+    "CW_CTG_PER_VAL": ""
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202321,
+    "MEASURE_NAME": "TS_ADJD_LOC_AMT",
+    "PARTNER_NAME": "Germany -Cyberport",
+    "SALES_ACCT_SUBTYPE_CD": "MULTIBRAND",
+    "CW_CTG_PER_VAL": ""
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202308,
+    "MEASURE_NAME": "TS_ADJD_USD_AMT",
+    "PARTNER_NAME": "Germany -Cyberport",
+    "SALES_ACCT_SUBTYPE_CD": "MULTIBRAND",
+    "CW_CTG_PER_VAL": ""
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202309,
+    "MEASURE_NAME": "TS_ADJD_USD_AMT",
+    "PARTNER_NAME": "Germany -Cyberport",
+    "SALES_ACCT_SUBTYPE_CD": "MULTIBRAND",
+    "CW_CTG_PER_VAL": ""
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202310,
+    "MEASURE_NAME": "TS_ADJD_USD_AMT",
+    "PARTNER_NAME": "Germany -Cyberport",
+    "SALES_ACCT_SUBTYPE_CD": "MULTIBRAND",
+    "CW_CTG_PER_VAL": ""
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202311,
+    "MEASURE_NAME": "TS_ADJD_USD_AMT",
+    "PARTNER_NAME": "Germany -Cyberport",
+    "SALES_ACCT_SUBTYPE_CD": "MULTIBRAND",
+    "CW_CTG_PER_VAL": ""
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202312,
+    "MEASURE_NAME": "TS_ADJD_USD_AMT",
+    "PARTNER_NAME": "Germany -Cyberport",
+    "SALES_ACCT_SUBTYPE_CD": "MULTIBRAND",
+    "CW_CTG_PER_VAL": ""
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202313,
+    "MEASURE_NAME": "TS_ADJD_USD_AMT",
+    "PARTNER_NAME": "Germany -Cyberport",
+    "SALES_ACCT_SUBTYPE_CD": "MULTIBRAND",
+    "CW_CTG_PER_VAL": ""
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202314,
+    "MEASURE_NAME": "TS_ADJD_USD_AMT",
+    "PARTNER_NAME": "Germany -Cyberport",
+    "SALES_ACCT_SUBTYPE_CD": "MULTIBRAND",
+    "CW_CTG_PER_VAL": ""
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202315,
+    "MEASURE_NAME": "TS_ADJD_USD_AMT",
+    "PARTNER_NAME": "Germany -Cyberport",
+    "SALES_ACCT_SUBTYPE_CD": "MULTIBRAND",
+    "CW_CTG_PER_VAL": ""
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202316,
+    "MEASURE_NAME": "TS_ADJD_USD_AMT",
+    "PARTNER_NAME": "Germany -Cyberport",
+    "SALES_ACCT_SUBTYPE_CD": "MULTIBRAND",
+    "CW_CTG_PER_VAL": ""
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202317,
+    "MEASURE_NAME": "TS_ADJD_USD_AMT",
+    "PARTNER_NAME": "Germany -Cyberport",
+    "SALES_ACCT_SUBTYPE_CD": "MULTIBRAND",
+    "CW_CTG_PER_VAL": ""
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202318,
+    "MEASURE_NAME": "TS_ADJD_USD_AMT",
+    "PARTNER_NAME": "Germany -Cyberport",
+    "SALES_ACCT_SUBTYPE_CD": "MULTIBRAND",
+    "CW_CTG_PER_VAL": ""
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202319,
+    "MEASURE_NAME": "TS_ADJD_USD_AMT",
+    "PARTNER_NAME": "Germany -Cyberport",
+    "SALES_ACCT_SUBTYPE_CD": "MULTIBRAND",
+    "CW_CTG_PER_VAL": ""
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202320,
+    "MEASURE_NAME": "TS_ADJD_USD_AMT",
+    "PARTNER_NAME": "Germany -Cyberport",
+    "SALES_ACCT_SUBTYPE_CD": "MULTIBRAND",
+    "CW_CTG_PER_VAL": ""
+  },
+  {
+    "FISCAL_YEAR_WEEK": 202321,
+    "MEASURE_NAME": "TS_ADJD_USD_AMT",
+    "PARTNER_NAME": "Germany -Cyberport",
+    "SALES_ACCT_SUBTYPE_CD": "MULTIBRAND",
+    "CW_CTG_PER_VAL": ""
   }
 ]
