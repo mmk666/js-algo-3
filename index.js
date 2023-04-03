@@ -1,7 +1,16 @@
-import mock from './ctgtable/mock.json';
+//import mock from './ctgtable/mock.json';
 
-import { getTabledata } from './ctgtable2';
+//import { getTabledata } from './ctgtable2';
 
-console.log(
-  getTabledata(mock, 'SUB_LOB_VAL', 'MEASURE_NAME', 'ST_RPTD_QTY', 'W')
+import mockPartner from './ctgpartner/mock.json';
+
+import { getPartnerTabledata } from './ctgpartner';
+
+const filterData = mockPartner.filter(
+  (item) => item.MEASURE_NAME === 'ST_RPTD_QTY'
 );
+
+console
+  .log
+  //getPartnerTabledata(filterData, 'SALES_ACCT_SUBTYPE_CD', 'PARTNER_NAME')
+  ();
