@@ -23,12 +23,10 @@ const getTotal = (data) =>
     return obj;
   }, {});
 
-const getDates = (data) => [
-  ...new Set(data.map((item) => item.FISCAL_YEAR_WEEK)),
-];
+const getDataByKey = (data, key) => [...new Set(data.map((item) => item[key]))];
 
 export const groupByPartners = (data, basekey) => {
-  const dates = getDates(data);
+  const dates = getDataByKey(data, 'FISCAL_YEAR_WEEK');
   const SubTotal = getTotal(data);
   const subGroup = groupByKey(data, basekey);
   for (const partner in subGroup) {
@@ -51,5 +49,5 @@ export const getPartnerTabledata = (data, basekey, subbasekey) => {
     const obj = groupByPartners(groupByProducts[product], subbasekey);
     groupByProducts[product] = obj;
   }
-  return { ...groupByProducts, Total };
+  return { ...groupByProducts, Total: { Total } };
 };
